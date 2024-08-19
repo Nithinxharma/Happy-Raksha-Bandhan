@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&family=Roboto&display=swap');
+body{
+		padding: 0;
+		margin: 0;
+		width:100%;
+		height:100vh;
+		overflow: hidden;
+		}
+		#particles-js{
+		height: 100%;
+		width: 100%;
+		background: #f12711;  /* fallback for old browsers */
+		background: -webkit-linear-gradient(to right, #f5af19, #f12711);
+		background: linear-gradient(to right, #f5af19, #f12711);
+		position: absolute;
+		top: 0;
+		}
+		main{
+			height: inherit;
+			width: inherit;
+			position: relative;
+			top: 50%;
+			left: 50%;
